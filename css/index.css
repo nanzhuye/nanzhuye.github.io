@@ -17,3 +17,24 @@ video {
   width: 100%;
   height: 100%;
 }
+h3 img {
+  width: 25px;
+  height: 25px;
+}
+
+p img {
+  width: 16px;
+  height: 16px;
+}
+
+b {
+  font-weight: 700;
+  color: red;
+}
+.center {
+  width: 100%;
+  text-align:center;
+  font-weight: 700;
+  font-size: 15px;
+  padding-bottom: 10px;
+}
